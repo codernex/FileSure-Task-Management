@@ -1,0 +1,10 @@
+{
+  "name": "@codernex/types",
+  "main": "index.ts",
+  "scripts": {
+    "type-check": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
